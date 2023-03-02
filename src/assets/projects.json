@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Pocket Bartender",
+        "description": "A fully responsive cocktail recipe application focused on UX complete with animations and API Calls.",
+        "stack":[],
+        "features":[
+            "React-Bootstrap framework for front-end",
+            "Use of React Hooks (useState, useEffect, useNavigate)",
+            "API Calls to CocktailDB",
+            "A favourite system",
+            "Filter/search system",
+            "Fun CSS animations",
+            "Responsive user Interface"
+        ],
+        "skills":[{"percent":"95%","name":"javascript"},{"percent":"85%","name":"CSS"},{"percent":"80%","name":"HTML"}]
+        
+      },
+      {
+        "title": "React Teacher",
+        "description": "A website for improving your React skills with interactive daily code puzzles.",
+        "stack":["Tailwind CSS for quick and easy styling", "Vercel for deployment", "Supabase for authentication and database functionalities", "Stripe for payments", "Next.js for optimized web apps", "Codepen for an interactive coding environment"],
+        "skills":[{"percent":"95%","name":"Typescript"},{"percent":"100%","name":"TailwindCSS"},{"percent":"80%","name":"Supabase"},{"percent":"80%","name":"Stripe"}],
+        "features":[]
+    },
+      {
+        "title": "Twiggington Tree Care",
+        "description": "A freelance website focused on giving user's the best experience possible.",
+        "stack":[],
+        "skills":[{"percent":"95%","name":"Wordpress"},{"percent":"100%","name":"NicePage"},{"percent":"80%","name":"Illustrator"}],
+        "features":["Elegant visual layout", "Custom logo design","reusable components","Animated elements"]
+      },
+      {
+        "title": "Tweeter",
+        "description": "A social media clone that uses a realtime database.",
+        "stack":[],
+        "skills":[{"percent":"95%","name":"javascript"},{"percent":"85%","name":"MongoDB"},{"percent":"80%","name":"CSS"}],
+        "features":["React Hooks & Components","Light and dark modes using useContext Hook","Fully integrated backend","MongoDB integration to store posts","Secure redirects","Fun Memes", "Post filter system"]
+      }
+]
